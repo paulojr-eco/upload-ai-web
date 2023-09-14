@@ -1,9 +1,4 @@
 
----
-
-**README - Frontend**
-
-```markdown
 # Frontend da Aplicação
 
 Este é o repositório do frontend da aplicação desenvolvida durante o evento NLW #13. O frontend configura a interface de usuário.
